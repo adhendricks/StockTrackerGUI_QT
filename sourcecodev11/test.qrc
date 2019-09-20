@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Capture.JPG</file>
+        <file>../build-Test10-Desktop_Qt_5_12_1_MSVC2017_32bit-Debug/Capture.JPG</file>
+    </qresource>
+</RCC>
