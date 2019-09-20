@@ -1,0 +1,1 @@
+This is a stock budget program for those that want to store their stock investments in a local database
